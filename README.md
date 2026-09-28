@@ -5,7 +5,7 @@
 
 ### Backend Developer • Java • Spring • APIs • ERP
 
-<img src="https://media1.tenor.com/m/XPfO-3xOBN0AAAAC/gif-de-pokemonxd.gif" width="100%">
+<img src="https://media1.tenor.com/m/XPfO-3xOBN0AAAAC/gif-de-pokemonxd.gif" width="60%">
 
 </div>
 
