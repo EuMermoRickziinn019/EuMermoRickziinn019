@@ -5,7 +5,7 @@
 
 ### Backend Developer • Java • Spring • APIs • ERP
 
-<img src="https://media.tenor.com/7WEHdTYwcOUAAAAM/gengar-gengar-pokemon.gif" width="230px"/>
+<img src="https://media1.tenor.com/m/XPfO-3xOBN0AAAAC/gif-de-pokemonxd.gif">
 
 > **"Transformando caos em código."**
 
