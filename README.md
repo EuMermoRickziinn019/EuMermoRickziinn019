@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# 👾 EuMermoRickziinn019
+# 👾 EuMermoRickziinn019 🐊
 
-### Backend Developer • Java • Spring • APIs • ERP • Tabacode
+### Backend Developer • Java • Spring • APIs • ERP • Tabacode🐪
 
 <img src="https://media1.tenor.com/m/XPfO-3xOBN0AAAAC/gif-de-pokemonxd.gif" width="60%">
 
