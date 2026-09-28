@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # 👾 EuMermoRickziinn019
@@ -38,7 +38,6 @@ public class Developer {
         );
     }
 }
-```
 
 Sou desenvolvedor focado principalmente em **backend com Java**.
 
