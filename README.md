@@ -3,7 +3,7 @@
 
 # 👾 EuMermoRickziinn019
 
-### Backend Developer • Java • Spring • APIs • ERP
+### Backend Developer • Java • Spring • APIs • ERP • Tabacode
 
 <img src="https://media1.tenor.com/m/XPfO-3xOBN0AAAAC/gif-de-pokemonxd.gif" width="60%">
 
@@ -20,7 +20,6 @@
 
 ---
 
-## Trabalho
+## 🐉 Trabalho 
 Manda que eu faço papai.
 Tem tempo ruim aqui não.
-
