@@ -5,9 +5,7 @@
 
 ### Backend Developer • Java • Spring • APIs • ERP
 
-<img src="https://media1.tenor.com/m/XPfO-3xOBN0AAAAC/gif-de-pokemonxd.gif">
-
-> **"Transformando caos em código."**
+<img src="https://media1.tenor.com/m/XPfO-3xOBN0AAAAC/gif-de-pokemonxd.gif" width="100%">
 
 </div>
 
@@ -75,24 +73,6 @@ Algumas áreas trabalhadas no projeto:
 - 🧪 Testes automatizados
 - 🗄️ PostgreSQL
 - 🔌 APIs REST
-
----
-
-## 🧠 Atualmente estudando
-
-```text
-Java avançado
-│
-├── Spring Boot
-├── Arquitetura de Software
-├── APIs REST
-├── Microsserviços
-├── Testes Automatizados
-├── PostgreSQL
-├── Maven
-├── Sistemas ERP
-└── Regras fiscais brasileiras
-```
 
 ---
 
