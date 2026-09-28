@@ -83,6 +83,6 @@ Algumas áreas trabalhadas no projeto:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven
+![Maven](https://img.shields.io/badge/Maven)
 
 <img src = "https://media1.tenor.com/m/3XNZLG2wpuoAAAAC/sad-pokemon.gif" width="100%">
