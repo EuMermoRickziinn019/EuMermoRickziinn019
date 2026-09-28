@@ -36,7 +36,7 @@ public class Developer {
         );
     }
 }
-
+```
 Sou desenvolvedor focado principalmente em **backend com Java**.
 
 Atualmente venho trabalhando na construção do **Atlantic**, um projeto de ERP que utilizo para estudar e aplicar conceitos de arquitetura de software, APIs, banco de dados, regras de negócio, estoque e sistemas fiscais.
@@ -84,3 +84,5 @@ Algumas áreas trabalhadas no projeto:
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven
+
+<img src = "https://media1.tenor.com/m/3XNZLG2wpuoAAAAC/sad-pokemon.gif" width="100%">
