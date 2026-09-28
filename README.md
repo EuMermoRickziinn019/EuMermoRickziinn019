@@ -13,6 +13,11 @@
 
 ## 🛠️ Tecnologias
 
+---
+
+## Trabalho
+Manda que eu faço papai.
+Tem tempo ruim aqui não.
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
